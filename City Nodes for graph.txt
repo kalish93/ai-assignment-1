@@ -1,0 +1,21 @@
+Oradea, Zerind, 71
+Oredea, Sibiu, 151
+Zerid, Arad, 75
+Arad, Timisoara, 118
+Timisoara, Lugoj, 111
+Lugoj, Mehadia, 70
+Mhadia, Drobeta, 75
+Drobeta, Craiva, 120
+Sibiu, Riminicu vilcea, 80
+Sibiu, Fagaras, 99
+Fagaras, Bucharest, 211
+Riminicu vilcea, Craiova, 146
+Riminicu vilcea, Pitesti, 97
+Pitesti, Bucherest, 101
+Giurigiu, Bucherest, 90
+Bucherest, Urziceni, 85
+Urziceni, Hirosova, 98
+Hirosova, Eforie, 86
+Urziceni, Vaslui, 142
+Vasuli, Isai, 92
+Isai, Neamt, 87
